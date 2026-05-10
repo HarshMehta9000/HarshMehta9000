@@ -2,7 +2,7 @@
 Hi there! 👋 I'm Harsh Mehta<br>🎯 AI/ML Engineer | Business Data Analyst | Cloud & Data Platform Specialist<br><br>AI/ML Engineer and Business Data Analyst with a Master's in Information Science from UW-Madison and 9+ years of experience across data engineering, machine learning, business intelligence, and enterprise analytics. I build production AI systems — RAG pipelines, document intelligence, voice-to-data agents — and translate complex business requirements into data-driven solutions across banking, finance, and enterprise domains.<br><br>📚 Education<br>M.S. in Information Science (Data, ML, Cloud) — University of Wisconsin-Madison (GPA: 3.95/4.0)<br>Bachelor of Management Studies — University of Mumbai<br><br>🔧 Certifications<br>Databricks Data Engineer Associate | Snowflake SnowPro Core | Azure Data Scientist (DP-100) | Microsoft Certified Power BI Data Analyst (PL-300)<br><br>🌐 Let's Connect!<br>Always open to collaborating on AI/ML, data engineering, or analytics projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpmehta/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://harshmehta.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpmehta/)
 
 # 💻 Tech Stack:
 
